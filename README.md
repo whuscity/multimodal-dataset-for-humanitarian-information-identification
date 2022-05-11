@@ -12,7 +12,7 @@ Given a text-image pair, the annotators need to determine whether it contains th
 Each positive sample (i.e., the text-image pair that contains humanitarian information) can be assigned one or more labels. If a text-image pair does not contain any humanitarian information, it is labeled as *Not humanitarian*.  
 ## Data format
 This resource contains the following files or folders.
-+ *annotation.csv*：It contains 4 fields, namely tweet_id, tweet_text, image_path (relative path), label (Multiple labels of a sample are separated by ";").
-+ *image*：This folder contains all the images in our dataset.
++ *annotation.csv*：It contains 4 fields, namely tweet_id, tweet_text, image_path, label (Multiple labels of a sample are separated by ";").
++ *image*：This folder contains all the images in our dataset. It can be downloaded [here](https://drive.google.com/file/d/1vmJaYv1ZuJJv_NfEAajPfMQ-QHU0dJ_J/view?usp=sharing).
 ## Citation request
 Please cite the following paper if you use this resource in your research.
